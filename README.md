@@ -13,12 +13,12 @@ Prérequis:
 
 Utilisation:
 - éditez le fichier custom.ini de Sarah et remplacez la ligne
-name=SARAH
+`name=SARAH`
 par
-name=Abracadabra Sarah
+`name=Abracadabra Sarah`
 (voir "principe" pour l'explication)
 - lancez le script avec
-node speech_test.js
+`node speech_test.js`
 - ouvrez chrome et naviguez vers https://127.0.0.1:4300  (HTTPS !!!)
 - validez le certificat SSL temporaire
 - validez l'utilisation du micro (comme c'est de l'HTTPS cette question sera posée une et une seule fois)
