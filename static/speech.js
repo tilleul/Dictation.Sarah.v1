@@ -76,9 +76,7 @@ Recognizer.prototype = {
 		var emu = item.transcript;
 		emu = emu.replace(/-/g,' ');
 		
-		//emu = emu.replace(/Soline/ig,'Abracadabra Soline');
-		
-		emu = 'Abracadabra Soline ' + emu;
+		emu = 'Abracadabra Sarah ' + emu;
 		var url = "https://127.0.0.1:4300/sarah?emulate=" + emu;
 			
 		xmlhttp.open("GET",url,true);
