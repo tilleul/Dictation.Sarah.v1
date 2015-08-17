@@ -5,7 +5,7 @@ Ceci est tout à fait expérimental. Il s'agit essentiellement de vérifier la f
 
 Le code est loin d'être parfait mais il fonctionne. 
 
-Pour plus d'infos et de support, allez sur http://www.sarah-forum.net ...
+Pour plus d'infos et de support, allez sur http://www.sarah-forum.net/phpBB3/viewtopic.php?f=35&t=219 ou sur https://plus.google.com/u/0/112914979604776526292/posts/7UXaQg1KZUh?cfem=1
 
 Prérequis:
 - Sarah v3 (pas testé avec v4)
