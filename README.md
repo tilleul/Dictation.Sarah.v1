@@ -10,6 +10,7 @@ Pour plus d'infos et de support, allez sur http://www.sarah-forum.net/phpBB3/vie
 Prérequis:
 - Sarah v3 (pas testé avec v4)
 - node.js installé sur le PC (pas testé avec le node.js de Sarah)
+- le navigateur Google Chrome à jour
 
 Utilisation:
 - éditez le fichier custom.ini de Sarah et remplacez la ligne
