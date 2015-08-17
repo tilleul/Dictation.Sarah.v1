@@ -31,6 +31,7 @@ pem.createCertificate({days:9999, selfSigned:true}, function(err, keys){
 			res.end('</body></html>');
 		} else {
 			res.write("Emulate: " + req.query.emulate);
+			console.log("Emulate: " + req.query.emulate);
 			var url_client_sarah = 'http://127.0.0.1:8888/' 
 			// le client SARAH ne supporte pas les paramètres URIencoded, donc on désencode ...
 			var params = {emulate:  decodeURI(req.query.emulate)};
